@@ -10,6 +10,9 @@ Solutions for various SQL problems from Hacker Rank
 **Basic Joins SQL Solutions**:
   - url: https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=join
   
+    
+**Aggregation SQL Solutions**:
+  - url:   https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=aggregation
   
 
 
