@@ -15,6 +15,8 @@ Solutions for various SQL problems from Hacker Rank
   - url:   https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=aggregation
   
 
-**Advance Select Solutions**:
+**Advanced Select Solutions**:
   - url: https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=advanced-select
-
+  
+**Advanced Joins Solutions**:
+  - url: https://www.hackerrank.com/domains/sql?badge_type=sql&filters%5Bsubdomains%5D%5B%5D=advanced-join
